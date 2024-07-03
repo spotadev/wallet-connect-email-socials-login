@@ -19,4 +19,5 @@ If you already have it and want to switch to it using nvm:
 Run:
 
 npm install
+
 npm run dev
