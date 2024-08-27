@@ -1,10 +1,9 @@
 
 This example is about showing social media login and login via email.
 
-Currently login  by email works, but login via social media such as Google does not.
+Currently both login by email and login via social media such as Google works.
 
-![Alt text](social_login_issue.png)
-
+Previously there was an issue with loginn via Google.
 
 Switch to node v20.12.2
 
